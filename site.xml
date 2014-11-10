@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.peg4d.editor_0.4.4.201411061225.jar" id="org.peg4d.editor" version="0.4.4.201411061225"/>
+   <feature url="features/org.peg4d.editor_0.5.0.201411101746.jar" id="org.peg4d.editor" version="0.5.0.201411101746"/>
 </site>
