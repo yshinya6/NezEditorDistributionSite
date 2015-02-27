@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.peg4d.editor_0.6.3.201502271636.jar" id="org.peg4d.editor" version="0.6.3.201502271636">
+   <feature url="features/org.peg4d.editor_0.6.4.201502271704.jar" id="org.peg4d.editor" version="0.6.4.201502271704">
       <category name="peg4dEditor"/>
    </feature>
    <category-def name="peg4dEditor" label="peg4dEditor"/>
