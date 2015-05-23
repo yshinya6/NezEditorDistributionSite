@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.peg4d.editor_0.7.0.201503021550.jar" id="org.peg4d.editor" version="0.7.0.201503021550">
-      <category name="peg4dEditor"/>
+   <feature url="features/nezEditorFeature_0.8.0.201505231729.jar" id="nezEditorFeature" version="0.8.0.201505231729">
+      <category name="nez-editor"/>
    </feature>
-   <category-def name="peg4dEditor" label="peg4dEditor"/>
+   <category-def name="nez-editor" label="nez-editor"/>
 </site>
