@@ -1,2 +1,2 @@
-peg4dPluginSite
+Distribution of NezEditor
 ===============
