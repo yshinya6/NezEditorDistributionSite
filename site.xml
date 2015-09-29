@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/nezEditorFeature_0.8.2.201506080959.jar" id="nezEditorFeature" version="0.8.2.201506080959">
+   <feature url="features/nezEditorFeature_0.9.0.201509291412.jar" id="nezEditorFeature" version="0.9.0.201509291412">
       <category name="nez-editor"/>
    </feature>
    <category-def name="nez-editor" label="nez-editor"/>
